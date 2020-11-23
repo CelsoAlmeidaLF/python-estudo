@@ -1,0 +1,1 @@
+from .covid.covid import Covid
